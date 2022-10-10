@@ -1,1 +1,15 @@
-초기 명령
+# 프로젝트 폴더를 따로 생성하지 않는다.
+
+1. Vue-CLI 설치
+    - npm i -g @vue/cli
+    - vue --version
+2. Vue.js 2.x 템플릿 기반 프로젝트를 생성하기 위해 다음 설치
+    - npm i -g @vue/cli-init
+3. 프로젝트 생성 (템플릿 : webpack-simple, 프로젝트명 : vue-todo)
+    - vue init webpack-simple vue-todo
+4. package.json 파일에 등록된 자바스크립트 라이브러리 다운로드
+    - npm i
+
+5. git 업로드
+    - 
+
